@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayush27coder/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush27coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayush27coder/LeetCode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/ayush27coder/LeetCode/tree/master/0037-sudoku-solver) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush27coder/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/ayush27coder/LeetCode/tree/master/0037-sudoku-solver) |
 # Binary Search
 |  |
 | ------- |
@@ -28,3 +30,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush27coder/LeetCode/tree/master/0011-container-with-most-water) |
+# Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayush27coder/LeetCode/tree/master/0037-sudoku-solver) |
+# Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayush27coder/LeetCode/tree/master/0037-sudoku-solver) |
