@@ -8,7 +8,7 @@
 struct ListNode* reverseList(struct ListNode* head) {
     struct ListNode *p = NULL;
     struct ListNode *t = head;
-    while(t){
+    while(t!=NULL){
         struct ListNode *n = t->next;
         t->next=p;
         p=t;
