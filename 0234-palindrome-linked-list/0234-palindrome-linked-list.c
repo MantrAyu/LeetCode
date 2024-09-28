@@ -35,5 +35,6 @@ bool isPalindrome(struct ListNode* head) {
         fh= fh->next;
         sh1= sh1->next;
     }
+    revl(sh);
     return p;
 }
