@@ -72,6 +72,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [2383-add-two-integers](https://github.com/ayush27coder/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ayush27coder/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -86,4 +87,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0838-design-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
