@@ -66,6 +66,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/ayush27coder/LeetCode/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
