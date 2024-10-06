@@ -75,6 +75,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
+| [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/ayush27coder/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ayush27coder/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -97,4 +98,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush27coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
