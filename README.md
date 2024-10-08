@@ -88,6 +88,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
+| [3379-score-of-a-string](https://github.com/ayush27coder/LeetCode/tree/master/3379-score-of-a-string) |
 ## Design
 |  |
 | ------- |
