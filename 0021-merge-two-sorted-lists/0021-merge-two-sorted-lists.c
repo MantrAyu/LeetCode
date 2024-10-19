@@ -23,7 +23,5 @@ struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
     } else {
         current->next = list2;
     }
-    struct ListNode* mergedList = dummy->next;
-    free(dummy);
-    return mergedList;
+    return dummy->next;
 }
