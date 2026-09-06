@@ -176,6 +176,7 @@ A collection of random LeetCode questions
 | [0049-group-anagrams](https://github.com/Ayu270/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ayush27coder/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Ayu270/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ayu270/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Ayu270/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Ayu270/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -669,6 +670,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0055-jump-game](https://github.com/ayush27coder/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ayush27coder/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Ayu270/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayu270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Ayu270/LeetCode/tree/master/0338-counting-bits) |
