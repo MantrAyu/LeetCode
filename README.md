@@ -184,6 +184,7 @@ A collection of random LeetCode questions
 | [0344-reverse-string](https://github.com/Ayu270/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/ayush27coder/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/Ayu270/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ayush27coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -678,6 +679,7 @@ A collection of random LeetCode questions
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/Ayu270/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/ayush27coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
