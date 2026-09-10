@@ -98,6 +98,7 @@ A collection of random LeetCode questions
 | [0908-middle-of-the-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayush27coder/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/Ayu270/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/ayush27coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayush27coder/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -232,6 +233,7 @@ A collection of random LeetCode questions
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayu270/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ayu270/LeetCode/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/Ayu270/LeetCode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayu270/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -265,6 +267,7 @@ A collection of random LeetCode questions
 | [2434-design-a-number-container-system](https://github.com/ayush27coder/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayush27coder/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayush27coder/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2540-minimum-common-value](https://github.com/Ayu270/LeetCode/tree/master/2540-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayush27coder/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayush27coder/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -371,6 +374,7 @@ A collection of random LeetCode questions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayush27coder/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ayush27coder/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayush27coder/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/Ayu270/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/ayush27coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayush27coder/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayush27coder/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
