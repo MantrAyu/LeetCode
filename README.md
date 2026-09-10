@@ -582,6 +582,7 @@ A collection of random LeetCode questions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ayush27coder/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ayush27coder/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayu270/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayush27coder/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ayu270/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -643,6 +644,7 @@ A collection of random LeetCode questions
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayu270/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayush27coder/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -657,6 +659,7 @@ A collection of random LeetCode questions
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayu270/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
