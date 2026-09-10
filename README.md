@@ -93,6 +93,7 @@ A collection of random LeetCode questions
 | [0234-palindrome-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ayu270/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayu270/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayu270/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/ayush27coder/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -229,6 +230,7 @@ A collection of random LeetCode questions
 | [0035-search-insert-position](https://github.com/ayush27coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayu270/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ayu270/LeetCode/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayu270/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -248,6 +250,7 @@ A collection of random LeetCode questions
 | [0219-contains-duplicate-ii](https://github.com/Ayu270/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayu270/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/Ayu270/LeetCode/tree/master/0817-linked-list-components) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -323,6 +326,7 @@ A collection of random LeetCode questions
 | [0228-summary-ranges](https://github.com/Ayu270/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayu270/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayu270/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
@@ -492,6 +496,7 @@ A collection of random LeetCode questions
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayu270/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/ayush27coder/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayu270/LeetCode/tree/master/1331-rank-transform-of-an-array) |
