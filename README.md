@@ -237,6 +237,7 @@ A collection of random LeetCode questions
 | [0704-binary-search](https://github.com/Ayu270/LeetCode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Ayu270/LeetCode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayu270/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayu270/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -405,6 +406,7 @@ A collection of random LeetCode questions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayush27coder/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayush27coder/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/ayush27coder/LeetCode/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayu270/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3429-special-array-i](https://github.com/ayush27coder/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayu270/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -519,6 +521,7 @@ A collection of random LeetCode questions
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayu270/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayu270/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayu270/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayu270/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -712,6 +715,7 @@ A collection of random LeetCode questions
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayu270/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3640-trionic-array-ii](https://github.com/ayush27coder/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Sliding Window
 |  |
